@@ -1,0 +1,1 @@
+body{margin:0;font-family:Inter,Segoe UI,sans-serif;background:#f4f7fb}.layout{display:flex}.sidebar{width:240px;background:#0f172a;color:white;min-height:100vh;padding:20px}.content{flex:1;padding:24px}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.card{background:#fff;border-radius:16px;padding:20px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
