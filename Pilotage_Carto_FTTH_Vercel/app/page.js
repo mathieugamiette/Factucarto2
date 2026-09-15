@@ -1,0 +1,1 @@
+export default function Page(){return (<main style={{padding:20,fontFamily:"Arial"}}><h1>Pilotage d'activité Carto FTTH</h1><h2>Ventes Optique Martinique - SA RT08ALTA</h2><p>CA = Nb prises × 6 €</p><ul><li>Filtre période : semaine</li><li>Graphique d'évolution CA hebdomadaire</li><li>Projet : Optique Martinique</li><li>SA : RT08ALTA</li></ul></main>) }
