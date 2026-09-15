@@ -1,1 +1,29 @@
-{"name":"cartoftth-v3","private":true,"scripts":{"dev":"next dev","build":"next build"},"dependencies":{"next":"latest","react":"latest","react-dom":"latest","recharts":"latest"}}
+{"{
+2
+"name": "factucarto",
+3
+"private": true,
+4
+"scripts": {
+5
+"dev": "next dev",
+6
+"build": "next build",
+7
+"start": "next start"
+8
+},
+9
+"dependencies": {
+10
+"next": "15.0.0",
+11
+"react": "18.3.1",
+12
+"react-dom": "18.3.1",
+13
+"recharts": "^2.12.7"
+14
+}
+15
+}
